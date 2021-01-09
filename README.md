@@ -55,7 +55,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Graduate student researcher, Sinha Lab, Department of Plant Biology, UC Davis  
 
-> Sep 2015 - present
+> *Sep 2015 - present*
 
 > Advisor: Dr. Neelima Sinha
 
@@ -306,7 +306,7 @@ plant physiology.
 
 > 2.	Worked with the faculty seminar organizer to schedule and organize the seminar series.
 
-* Science Outreach: Create a video for the AAAS Dance Your Ph.D. contest
+### Science Outreach: Create a video for the AAAS Dance Your Ph.D. contest
 
 > An annual contest challenging scientists explain their Ph.D. research by dance.
 
@@ -314,4 +314,4 @@ plant physiology.
 
 > Contest category: Biology.
 
-[watch Dance Your Ph.D. video](https://youtu.be/smUX3iAKrN0)
+[Watch Dance Your Ph.D. video](https://youtu.be/smUX3iAKrN0)
