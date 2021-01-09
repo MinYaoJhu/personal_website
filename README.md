@@ -179,104 +179,53 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * 2020	Graduate Student Association's Fall 2020 Travel Award
 
-> UC Davis GSA’s biannual Travel Award program to support students attending virtual conference.
-
 * 2020	Selected concurrent session Rapid Fire speaker at Plant Biology 2020
-
-> Invitation to give a talk in the concurrent session 26: Cell Walls at Plant Biology 2020 worldwide summit.
 
 * 2020	Loomis, Robert S. and Lois Ann Graduate Award in Agronomy
 
-> An annual award that is given to outstanding students who are conducting plant science research on agricultural crops.
-
 * 2020	UCD Graduate Research Award for academic year 2020-2021
-
-> An annual UC Davis Graduate Research Award for outstanding graduate students.
 
 * 2019	UC Davis Plant Biology Colloquium Best Presentation Award
 
-> Presentation Competition at the 2019 UC Davis Plant Biology Colloquium, UC Davis, CA
-
 * 2019	Selected speaker at the 15th World Congress on Parasitic Plants (WCPP)
-
-> Invitation to give an oral presentation at the 15th WCPP in Amsterdam, the Netherlands.
 
 * 2019	Selected concurrent session speaker at Plant Biology 2019
 
-> Invitation to give an oral presentation in concurrent session 16: Signaling at Plant Biology 2019 in San Jose, California.
-
 * 2019	Katherine Esau Summer Graduate Fellowship
-
-> Awarded to an advanced graduate student whose dissertation research indicates exceptional promise for elucidating an understanding of plant structure.
 
 * 2018	Pitch Your Science Bronze Award at Plant Biology 2018
 
-> 90-second talk contest at Plant Biology 2018 in Montreal, Canada.
-
 * 2018	UC Davis Graduate Student Travel Award
-
-> This award supports graduate students who travel to professional meetings (attended Plant Biology 2018 in Montreal, Canada.)
 
 * 2018	Elsie Taylor Stocking Memorial Fellowship 
 
-> This fellowship supports top graduate students in studies and research in 
-plant physiology.  
-
 * 2018	American Society of Plant Biologists Travel Award
-
-> ASPB offered travel grants to attend Plant Biology 2018 in Montreal, Canada.
 
 * 2017	UC Davis Plant Biology Retreat Poster Award
 
-> 2017 UC Davis Plant Biology Retreat, UC Davis Genome Center, CA
-
 * 2017	UC Davis Plant Biology Colloquium Best Presentation Award
-
-> Presentation Competition at the 2017 UC Davis Plant Biology Colloquium, UC Davis, CA
 
 * 2017	American Society of Plant Biologists Travel Award
 
-> ASPB offered travel grants to attend Plant Biology 2017 in Honolulu, Hawaii.
-
 * 2016	UC Davis Plant Biology Retreat Poster Award
-
-> 2016 UC Davis Plant Biology Retreat, Marconi Conference Center, CA
 
 * 2016	Taiwan Government Scholarship to Study Abroad (GSSA)
 
-> The Government of Taiwan provided this scholarship for supporting nationwide outstanding students to study abroad.
-
 * 2016	Yen Chuang Taiwan Fellowship
-
-> This fellowship is an award for students with outstanding academic records at UC Davis.
 
 * 2014	Taiwan Society of Plant Biologist Annual Conference Thesis Presentation Competition, First Prize
 
-> 2014 Taiwan Society of Plant Biologist Annual Conference and Summer Workshop, Sitou, Taiwan.
-
 * 2014	Taiwan Society of Plant Biologist Annual Conference Poster Competition, Excellence Award
-
-> 2014 Taiwan Society of Plant Biologist Annual Conference and Summer Workshop, Sitou, Taiwan.
 
 * 2014	National Taiwan University College of Life Science Poster Competition, Excellence Award
 
-> Awarded to College of Life Science graduate students at National Taiwan University with outstanding science project performance.
-
 * 2013	Enci Social Welfare Foundation Elite Scholarship 
-
-> Awarded to the most outstanding students from all disciplines in Taiwan.
 
 * 2013	Outstanding Research Performance Award 
 
-> In recognition of students who have completed the UC Davis Global Research Experience in Advanced Technologies (GREAT) 2013 summer research program with outstanding research performance.
-
 * 2013, 2012	National Taiwan University Scholarship for Academic Diligence 
 
-> Received in both 2012 and 2013 academic years; awarded to the top 1% student from underprivileged backgrounds in each department or institute at National Taiwan University.
-
 * 2012, 2011, 2010	National Cheng Kung University Outstanding Student Award 
-
-> Received in 2010, 2011, and 2012 academic years; awarded to the top 1% student in academic performance in each department at National Cheng Kung University.
 
 ## Outreach & volunteering <a name="Outreach_volunteering"></a>
 
