@@ -164,53 +164,29 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 ## Awards & Honors <a name="Awards"></a>
 
 * 2020	Graduate Student Association's Fall 2020 Travel Award
-
 * 2020	Selected concurrent session Rapid Fire speaker at Plant Biology 2020
-
 * 2020	Loomis, Robert S. and Lois Ann Graduate Award in Agronomy
-
 * 2020	UCD Graduate Research Award for academic year 2020-2021
-
 * 2019	UC Davis Plant Biology Colloquium Best Presentation Award
-
 * 2019	Selected speaker at the 15th World Congress on Parasitic Plants (WCPP)
-
 * 2019	Selected concurrent session speaker at Plant Biology 2019
-
 * 2019	Katherine Esau Summer Graduate Fellowship
-
 * 2018	Pitch Your Science Bronze Award at Plant Biology 2018
-
 * 2018	UC Davis Graduate Student Travel Award
-
 * 2018	Elsie Taylor Stocking Memorial Fellowship 
-
 * 2018	American Society of Plant Biologists Travel Award
-
 * 2017	UC Davis Plant Biology Retreat Poster Award
-
 * 2017	UC Davis Plant Biology Colloquium Best Presentation Award
-
 * 2017	American Society of Plant Biologists Travel Award
-
 * 2016	UC Davis Plant Biology Retreat Poster Award
-
 * 2016	Taiwan Government Scholarship to Study Abroad (GSSA)
-
 * 2016	Yen Chuang Taiwan Fellowship
-
 * 2014	Taiwan Society of Plant Biologist Annual Conference Thesis Presentation Competition, First Prize
-
 * 2014	Taiwan Society of Plant Biologist Annual Conference Poster Competition, Excellence Award
-
 * 2014	National Taiwan University College of Life Science Poster Competition, Excellence Award
-
 * 2013	Enci Social Welfare Foundation Elite Scholarship 
-
 * 2013	Outstanding Research Performance Award 
-
 * 2013, 2012	National Taiwan University Scholarship for Academic Diligence 
-
 * 2012, 2011, 2010	National Cheng Kung University Outstanding Student Award 
 
 ## Outreach & volunteering <a name="Outreach_volunteering"></a>
