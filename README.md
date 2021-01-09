@@ -20,8 +20,11 @@ Welcome! This is Min-Yao's personal website!
 
 * PhD Candidate  
 * UC Davis Department of Plant Biology 
-[minjhu@ucdavis.edu](emailto:minjhu@ucdavis.edu)
+
+[minjhu@ucdavis.edu](mailto:minjhu@ucdavis.edu)
+
 [LinkedIn](www.linkedin.com/in/min-yao-jhu)
+
 [UCD website](https://cbsapps.ucdavis.edu/GradStudents/Student/View/10632)
 
 ## Education <a name="Education"></a>
