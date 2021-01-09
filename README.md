@@ -257,12 +257,14 @@ plant physiology.
 
 * 2020-present	Reviewer for New Phytologist
 * 2017-present	R and python club member
+
 This is a programming learning group consisting of graduate students, postdocs, and faculty participants. All members are required to contribute to the weekly discussions. I also volunteered and led the group discussion several times. Topics included programming Raspberry Pi devices and advanced topics covered in: 
 1.	Statistical Rethinking: A Bayesian Course with Examples in R and STAN by Richard McElreath.
 2.	Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2nd Edition) by Wes McKinney.
 3.	An introduction to statistical learning: with applications in R by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.
 
 * 2017-present	Mentor for Undergraduate and Graduate Researchers
+
 I taught and trained several undergraduate students and graduate students in the PBGG rotation program in Sinha lab in molecular biology and histology techniques. I helped my undergraduate trainees develop skills in scientific literature reading and critique. 
 
 * 2019	Seminar Host, UC Davis Plant Biology Graduate Group.
