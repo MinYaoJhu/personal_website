@@ -5,21 +5,22 @@ Welcome! This is Min-Yao's personal website!
 
 ## Table of contents
 
-1. [Contact Info](#Contact_Info)
+1. [Bio](#Bio)
 2. [Education](#Education)
 3. [Publications](#Publications)
 4. [Experiences](#Experiences)
 5. [Awards & Honors](#Awards)
 6. [Outreach & volunteering](#Outreach_volunteering)
 
-## Contact Info <a name="Contact_Info"></a>
+## Bio <a name="Bio"></a>
 
 # Min-Yao Jhu
 
 <img src="Image/2017_aspb.jpg" width="200">
 
-* PhD Candidate  
-* UC Davis Department of Plant Biology 
+I am a sixth-year Ph.D. candidate in the Plant Biology Graduate Program at UC Davis. I have been doing research in the plant biology field for 10 years. My research interests are plant-parasite interactions, plant biotic stress, and plant-fungal or plant-bacterial symbiosis research. I am currently working in Sinha Lab and I am focusing on parasitic plant research, especially _Cuscuta_ _campestris_. In my current research, I use bioinformatics, genetics, molecular biology, and histology techniques to study haustorium development and the interaction between parasitic plants and tomatoes.
+
+### Contact info
 
 [minjhu@ucdavis.edu](mailto:minjhu@ucdavis.edu)
 
