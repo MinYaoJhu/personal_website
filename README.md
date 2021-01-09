@@ -65,7 +65,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Research Assistant, Li Lab, Biodiversity Research Center, Academia Sinica (Taipei, Taiwan)
 
-> Aug 2014 - Jul 2015
+> *Aug 2014 - Jul 2015*
 
 > Advisor: Dr. Wen-Hsiung Li
 
@@ -73,7 +73,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Graduate student researcher, Jeng Lab, Institute of Plant Biology, National Taiwan University
 
-> Jul 2012 - Jul 2014
+> *Jul 2012 - Jul 2014*
 
 > Advisor: Dr. Shih-Tong Jeng
 
@@ -81,7 +81,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Summer Research Intern, Lucas Lab, Department of Plant Biology, UC Davis  
 
-> Jul 2013 - Sep 2013
+> *Jul 2013 - Sep 2013*
 
 > Advisor: Dr. William J. Lucas
 
@@ -91,7 +91,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Undergraduate Student Researcher, Liao Lab, Department of Life Sciences, National Cheng Kung University
 
-> Dec 2009 - Jun 2012
+> *Dec 2009 - Jun 2012*
 
 > Advisor: Dr. Gwo-Ing Liao; Co-advisor: Dr. Song-Bin Chang
 
@@ -99,7 +99,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Summer Research Intern, Fang Lab, The Biotechnology Center in Southern Taiwan, Academia Sinica
 
-> Jul 2011 - Sep 2011
+> *Jul 2011 - Sep 2011*
 
 > Advisor: Dr. Su-Chiung Fang
 
@@ -107,7 +107,7 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Summer Research Intern, Cheng Lab, Institute of Plant and Microbial Biology
 
-> Jul 2010 - Sep 2010
+> *Jul 2010 - Sep 2010*
 
 > Advisor: Dr. Wan-Hsing Cheng
 
@@ -117,59 +117,59 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Teaching assistant, College of Biological Sciences, UC Davis  
 
-> Jan 2021 - present
+> *Jan 2021 - present*
 
 > BIS 015L, Introduction to Data Science for Biologists (R programming), 1 quarter, 2 units, 2 lab sections and held four sessions of office hours per week. (Remote teaching via Zoom)
 
 * Teaching assistant, Department of Plant Biology, UC Davis
 
-> Sep 2020 – Dec 2020
+> *Sep 2020 – Dec 2020*
 
 > PLB111 Plant Physiology, 1 quarter, 3 units.
 > PLB111D Plant Physiology Discussion, 1 quarter, 1 unit per section, leading 2 discussion sections and 1 office hours per week. (Remote teaching via Zoom)
 
 * Teaching assistant, College of Biological Sciences, UC Davis
 
-> Aug 2020 – Sep 2020
+> *Aug 2020 – Sep 2020*
 
 > BIS2C Introductory Biology, 1 quarter, 5 units, leading 2 lab sections (3 hours per section) and held two sessions of office hours per week. (Remote teaching for 2020 Summer II via Zoom)
 
 * Teaching assistant, Department of Plant Biology, UC Davis
 
-> Mar 2020 – Jun 2020
+> *Mar 2020 – Jun 2020*
 
 >PLB112 Plant Growth and Development, 1 quarter, 3 units. (Remote teaching)
 >PLB112D Plant Growth and Development Discussion, 1 quarter, 1 unit per section, leading 4 discussion sections. (Remote teaching)
 
 * Teaching assistant, College of Biological Sciences, UC Davis
 
-> Jan 2020 – Mar 2020
+> *Jan 2020 – Mar 2020*
 
 > BIS2C Introductory Biology, 1 quarter, 5 units, leading 2 lab sections (3 hours per section) and one office hours per week.
 
 * Teaching assistant, Department of Plant Biology, UC Davis
 
-> Sep 2019 – Dec 2019
+> *Sep 2019 – Dec 2019*
 
 > PLB111 Plant Physiology, 1 quarter, 3 units.
 > PLB111D Plant Physiology Discussion, 1 quarter, 1 unit per section, leading 3 discussion sections and 2 office hours per week.
 
 * Teaching assistant, Department of Plant Biology, UC Davis
 
-> Mar 2019 – Jun 2019
+> *Mar 2019 – Jun 2019*
 
 > PLB112 Plant Growth and Development, 1 quarter, 3 units.
 > PLB112D Plant Growth and Development Discussion, 1 quarter, 1 unit per section, leading 4 discussion sections per week.
 
 * Teaching assistant, College of Biological Sciences, UC Davis
 
-> Jan 2019 – Mar 2019
+> *Jan 2019 – Mar 2019*
 
 > BIS2C Introductory Biology, 1 quarter, 5 units, leading 2 lab sections (3 hours per section) and one office hours per week.
 
 * Teaching assistant, Department of Plant Biology, UC Davis
 
-> Sep 2018 – Dec 2018
+> *Sep 2018 – Dec 2018*
 
 > PLB111 Plant Physiology, 1 quarter, 3 units.
 > PLB111D Plant Physiology Discussion, 1 quarter, 1 unit per section, leading 2 discussion sections and 2 office hours per week.
