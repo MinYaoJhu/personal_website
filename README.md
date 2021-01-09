@@ -272,3 +272,11 @@ I taught and trained several undergraduate students and graduate students in the
 * 2019-2020	Seminar Committee, UC Davis Plant Biology Graduate Student Association.
 1.	Solicited suggestions from the PBGG students for speakers to invite for the Friday Plant Biology Graduate Seminar.
 2.	Worked with the faculty seminar organizer to schedule and organize the seminar series.
+
+### Science Outreach: Create a video for the AAAS Dance Your Ph.D. contest
+
+An annual contest challenging scientists explain their Ph.D. research by dance.
+Title: Lignin-based resistance to parasitic plants in tomato.
+Contest category: Biology.
+
+[video](https://youtu.be/smUX3iAKrN0)
