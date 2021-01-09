@@ -10,14 +10,19 @@ Welcome! This is Min-Yao's personal website!
 3. [Publications](#Publications)
 4. [Experiences](#Experiences)
 5. [Awards & Honors](#Awards)
-6. [Outreach and volunteering](#Outreach_volunteering)
+6. [Outreach & volunteering](#Outreach_volunteering)
 
 ## Contact Info <a name="Contact_Info"></a>
 
-* Min-Yao Jhu
+# Min-Yao Jhu
+
+<img src="Image/2017_aspb.jpg" width="200">
+
 * PhD Candidate  
 * UC Davis Department of Plant Biology 
-* [minjhu@ucdavis.edu](emailto:minjhu@ucdavis.edu)
+[minjhu@ucdavis.edu](emailto:minjhu@ucdavis.edu)
+[LinkedIn](www.linkedin.com/in/min-yao-jhu)
+[UCD website](https://cbsapps.ucdavis.edu/GradStudents/Student/View/10632)
 
 ## Education <a name="Education"></a>
 
@@ -179,7 +184,7 @@ PLB111D Plant Physiology Discussion, 1 quarter, 1 unit per section, leading 2 di
 * 2012, 2011, 2010	National Cheng Kung University Outstanding Student Award 
 – Received in 2010, 2011, and 2012 academic years; awarded to the top 1% student in academic performance in each department at National Cheng Kung University.
 
-## Outreach and volunteering <a name="Outreach_volunteering"></a>
+## Outreach & volunteering <a name="Outreach_volunteering"></a>
 
 * 2020-present	Reviewer for New Phytologist
 * 2017-present	R and python club member
