@@ -55,7 +55,8 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 * Graduate student researcher, Sinha Lab, Department of Plant Biology, UC Davis  
 
-Sep 2015 - present
+> Sep 2015 - present
+
 Advisor: Neelima Sinha
 Research Topic 1: CcLBD25 functions as a key regulator of haustorium development in Cuscuta campestris
 Research Topic 2: Lignin-based resistance to Cuscuta campestris in tomato
