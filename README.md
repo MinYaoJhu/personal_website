@@ -58,8 +58,6 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 > *Sep 2015 - present*
 
-> Advisor: Dr. Neelima Sinha
-
 > Research Topic 1: CcLBD25 functions as a key regulator of haustorium development in Cuscuta campestris
 
 > Research Topic 2: Lignin-based resistance to Cuscuta campestris in tomato
@@ -68,23 +66,17 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 > *Aug 2014 - Jul 2015*
 
-> Advisor: Dr. Wen-Hsiung Li
-
 > Research Topic: The regulatory mechanisms of Kranz anatomy development in C4 plants.
 
 * Graduate student researcher, Jeng Lab, Institute of Plant Biology, National Taiwan University
 
 > *Jul 2012 - Jul 2014*
 
-> Advisor: Dr. Shih-Tong Jeng
-
 > Research Topic: Identification and functional characterization of wounding-responsive miRNAs in sweet potato (Ipomoea batatas cv. Tainung 57).
 
 * Summer Research Intern, Lucas Lab, Department of Plant Biology, UC Davis  
 
 > *Jul 2013 - Sep 2013*
-
-> Advisor: Dr. William J. Lucas
 
 > Global Research Experience in Advanced Technologies (GREAT) summer research program 2013
 
@@ -94,23 +86,17 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 > *Dec 2009 - Jun 2012*
 
-> Advisor: Dr. Gwo-Ing Liao; Co-advisor: Dr. Song-Bin Chang
-
 > Research Topic: Distribution and microstructure and chromosome ploidy in cecidomyiid galls on leaves of Litsea acuminata (Lauraceae) in Taiwan.
 
 * Summer Research Intern, Fang Lab, The Biotechnology Center in Southern Taiwan, Academia Sinica
 
 > *Jul 2011 - Sep 2011*
 
-> Advisor: Dr. Su-Chiung Fang
-
 > Research Topic: Defects in a Putative Sulfate Transporter and Cell Cycle Control in Chlamydomonas reinhardtii.
 
 * Summer Research Intern, Cheng Lab, Institute of Plant and Microbial Biology
 
 > *Jul 2010 - Sep 2010*
-
-> Advisor: Dr. Wan-Hsing Cheng
 
 > Research Topic: Identification of Drought Tolerance Determinants by a Genetic Screening at Genomic Scale.
 
