@@ -128,73 +128,73 @@ PLB111D Plant Physiology Discussion, 1 quarter, 1 unit per section, leading 2 di
 
 ## Awards & Honors <a name="Awards"></a>
 
-*2020	Graduate Student Association's Fall 2020 Travel Award
+* 2020	Graduate Student Association's Fall 2020 Travel Award
 – UC Davis GSA’s biannual Travel Award program to support students attending virtual conference.
-*2020	Selected concurrent session Rapid Fire speaker at Plant Biology 2020
+* 2020	Selected concurrent session Rapid Fire speaker at Plant Biology 2020
 – Invitation to give a talk in the concurrent session 26: Cell Walls at Plant Biology 2020 worldwide summit.
-*2020	Loomis, Robert S. and Lois Ann Graduate Award in Agronomy
+* 2020	Loomis, Robert S. and Lois Ann Graduate Award in Agronomy
 – An annual award that is given to outstanding students who are conducting plant science research on agricultural crops.
-*2020	UCD Graduate Research Award for academic year 2020-2021
+* 2020	UCD Graduate Research Award for academic year 2020-2021
 – An annual UC Davis Graduate Research Award for outstanding graduate students.
-*2019	UC Davis Plant Biology Colloquium Best Presentation Award
+* 2019	UC Davis Plant Biology Colloquium Best Presentation Award
 – Presentation Competition at the 2019 UC Davis Plant Biology Colloquium, UC Davis, CA
-*2019	Selected speaker at the 15th World Congress on Parasitic Plants (WCPP)
+* 2019	Selected speaker at the 15th World Congress on Parasitic Plants (WCPP)
 – Invitation to give an oral presentation at the 15th WCPP in Amsterdam, the Netherlands.
-*2019	Selected concurrent session speaker at Plant Biology 2019
+* 2019	Selected concurrent session speaker at Plant Biology 2019
 – Invitation to give an oral presentation in concurrent session 16: Signaling at Plant Biology 2019 in San Jose, California.
-*2019	Katherine Esau Summer Graduate Fellowship
+* 2019	Katherine Esau Summer Graduate Fellowship
 – awarded to an advanced graduate student whose dissertation research indicates exceptional promise for elucidating an understanding of plant structure.
-*2018	Pitch Your Science Bronze Award at Plant Biology 2018
+* 2018	Pitch Your Science Bronze Award at Plant Biology 2018
 – 90-second talk contest at Plant Biology 2018 in Montreal, Canada.
-*2018	UC Davis Graduate Student Travel Award
+* 2018	UC Davis Graduate Student Travel Award
 – This award supports graduate students who travel to professional meetings (attended Plant Biology 2018 in Montreal, Canada.)
-*2018	Elsie Taylor Stocking Memorial Fellowship 
+* 2018	Elsie Taylor Stocking Memorial Fellowship 
 – This fellowship supports top graduate students in studies and research in plant physiology.  
-*2018	American Society of Plant Biologists Travel Award
+* 2018	American Society of Plant Biologists Travel Award
 – ASPB offered travel grants to attend Plant Biology 2018 in Montreal, Canada.
-*2017	UC Davis Plant Biology Retreat Poster Award
+* 2017	UC Davis Plant Biology Retreat Poster Award
 – 2017 UC Davis Plant Biology Retreat, UC Davis Genome Center, CA
-*2017	UC Davis Plant Biology Colloquium Best Presentation Award
+* 2017	UC Davis Plant Biology Colloquium Best Presentation Award
 – Presentation Competition at the 2017 UC Davis Plant Biology Colloquium, UC Davis, CA
-*2017	American Society of Plant Biologists Travel Award
+* 2017	American Society of Plant Biologists Travel Award
 – ASPB offered travel grants to attend Plant Biology 2017 in Honolulu, Hawaii.
-*2016	UC Davis Plant Biology Retreat Poster Award
+* 2016	UC Davis Plant Biology Retreat Poster Award
 – 2016 UC Davis Plant Biology Retreat, Marconi Conference Center, CA
-*2016	Taiwan Government Scholarship to Study Abroad (GSSA)
+* 2016	Taiwan Government Scholarship to Study Abroad (GSSA)
 – The Government of Taiwan provided this scholarship for supporting nationwide outstanding students to study abroad.
-*2016	Yen Chuang Taiwan Fellowship
+* 2016	Yen Chuang Taiwan Fellowship
 – This fellowship is an award for students with outstanding academic records at UC Davis.
-*2014	Taiwan Society of Plant Biologist Annual Conference Thesis Presentation Competition, First Prize
+* 2014	Taiwan Society of Plant Biologist Annual Conference Thesis Presentation Competition, First Prize
 – 2014 Taiwan Society of Plant Biologist Annual Conference and Summer Workshop, Sitou, Taiwan.
-*2014	Taiwan Society of Plant Biologist Annual Conference Poster Competition, Excellence Award
+* 2014	Taiwan Society of Plant Biologist Annual Conference Poster Competition, Excellence Award
 – 2014 Taiwan Society of Plant Biologist Annual Conference and Summer Workshop, Sitou, Taiwan.
-*2014	National Taiwan University College of Life Science Poster Competition, Excellence Award
+* 2014	National Taiwan University College of Life Science Poster Competition, Excellence Award
 – Awarded to College of Life Science graduate students at National Taiwan University with outstanding science project performance.
-*2013	Enci Social Welfare Foundation Elite Scholarship 
+* 2013	Enci Social Welfare Foundation Elite Scholarship 
 – Awarded to the most outstanding students from all disciplines in Taiwan.
-*2013	Outstanding Research Performance Award 
+* 2013	Outstanding Research Performance Award 
 – In recognition of students who have completed the UC Davis Global Research Experience in Advanced Technologies (GREAT) 2013 summer research program with outstanding research performance.
-*2013, 2012	National Taiwan University Scholarship for Academic Diligence 
+* 2013, 2012	National Taiwan University Scholarship for Academic Diligence 
 – Received in both 2012 and 2013 academic years; awarded to the top 1% student from underprivileged backgrounds in each department or institute at National Taiwan University.
-*2012, 2011, 2010	National Cheng Kung University Outstanding Student Award 
+* 2012, 2011, 2010	National Cheng Kung University Outstanding Student Award 
 – Received in 2010, 2011, and 2012 academic years; awarded to the top 1% student in academic performance in each department at National Cheng Kung University.
 
 ## Outreach and volunteering <a name="Outreach_volunteering"></a>
 
-*2020-present	Reviewer for New Phytologist
-*2017-present	R and python club member
+* 2020-present	Reviewer for New Phytologist
+* 2017-present	R and python club member
 This is a programming learning group consisting of graduate students, postdocs, and faculty participants. All members are required to contribute to the weekly discussions. I also volunteered and led the group discussion several times. Topics included programming Raspberry Pi devices and advanced topics covered in: 
 1.	Statistical Rethinking: A Bayesian Course with Examples in R and STAN by Richard McElreath.
 2.	Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython (2nd Edition) by Wes McKinney.
 3.	An introduction to statistical learning: with applications in R by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.
 
-*2017-present	Mentor for Undergraduate and Graduate Researchers
+* 2017-present	Mentor for Undergraduate and Graduate Researchers
 I taught and trained several undergraduate students and graduate students in the PBGG rotation program in Sinha lab in molecular biology and histology techniques. I helped my undergraduate trainees develop skills in scientific literature reading and critique. 
 
-*2019	Seminar Host, UC Davis Plant Biology Graduate Group.
+* 2019	Seminar Host, UC Davis Plant Biology Graduate Group.
 1.	Organized schedules and invited and hosted Professor Shelley Lumba from University of Toronto as our PBGG seminar speaker on 10/04/2019.
 2.	Organized schedules and Invited and hosted Professor Michael Axtell from Pennsylvania State University as our PBGG seminar speaker on 10/18/2019.
 
-*2019-2020	Seminar Committee, UC Davis Plant Biology Graduate Student Association.
+* 2019-2020	Seminar Committee, UC Davis Plant Biology Graduate Student Association.
 1.	Solicited suggestions from the PBGG students for speakers to invite for the Friday Plant Biology Graduate Seminar.
 2.	Worked with the faculty seminar organizer to schedule and organize the seminar series.
