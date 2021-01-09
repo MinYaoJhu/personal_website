@@ -1,4 +1,4 @@
-# personal_website
+# Min-Yao's personal website and CV
 Welcome! This is Min-Yao's personal website!
 
 ## Min-Yao's Curriculum Vitae   
