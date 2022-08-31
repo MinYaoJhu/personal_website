@@ -22,16 +22,18 @@ I am a sixth-year Ph.D. candidate in the Plant Biology Graduate Program at UC Da
 
 ### Contact info
 
-[minjhu@ucdavis.edu](mailto:minjhu@ucdavis.edu)
+[myj23@cam.ac.uk](mailto:myj23@cam.ac.uk)
 
 [LinkedIn](www.linkedin.com/in/min-yao-jhu)
 
-[UCD website](https://cbsapps.ucdavis.edu/GradStudents/Student/View/10632)
+[University of Cambridge](https://www.cropsciencecentre.org/staff/min-yao-jhu)
+
+[University of California, Davis](https://cbsapps.ucdavis.edu/GradStudents/Student/View/10632)
 
 ## Education <a name="Education"></a>
 
 * Ph.D. in Plant Biology    
-University of California, Davis, expected summer 2021  
+University of California, Davis, 2021  
 
 * Master’s Degree in Plant Biology  
 National Taiwan University 2014
@@ -42,9 +44,13 @@ National Cheng Kung University 2012
 
 ## Publications <a name="Publications"></a>
 
-**Jhu, M.-Y.**, Ichihashi, Y., Farhi, M., Wong, C., Sinha, N.R. (2021). CcLBD25 functions as a key regulator of haustorium development in Cuscuta campestris. bioRxiv. doi: [https://doi.org/10.1101/2021.01.04.425251](https://doi.org/10.1101/2021.01.04.425251)
+**Jhu, M.-Y.**, Sinha, N.R. (2022) Parasitic Plants: An Overview of Mechanisms by Which Plants Perceive and Respond to Parasites. Annu Rev Plant Biol. 2022 May 20;73:433-455. [https://doi.org/10.1146/annurev-arplant-102820-100635](https://doi.org/10.1146/annurev-arplant-102820-100635). Epub 2022 Apr 1. PMID: 35363532.
 
-**Jhu, M.Y.**, Farhi, M., Wang, L., Philbrook, R.N., Belcher, M.S., Nakayama, H., Zumstein, K.S., Rowland, S.D., Ron, M., Shih, P.M., Sinha, N.R. (2019). Lignin-based resistance to Cuscuta campestris in tomato. bioRxiv 706861; doi: [https://doi.org/10.1101/706861](https://doi.org/10.1101/706861)
+**Jhu, M.-Y.**, Farhi, M., Wang, L., Zumstein, K., Sinha, NR. (2022) Investigating Host and Parasitic Plant Interaction by Tissue-Specific Gene Analyses on Tomato and Cuscuta campestris Interface at Three Haustorial Developmental Stages. Front Plant Sci. 2022 Feb 10;12:764843. [https://doi.org/10.3389/fpls.2021.764843](https://doi.org/10.3389/fpls.2021.764843) PMID: 35222447; PMCID: PMC8866705.
+
+**Jhu, M.Y.**, Farhi, M., Wang, L., Philbrook, R.N., Belcher, M.S., Nakayama, H., Zumstein, K.S., Rowland, S.D., Ron, M., Shih, P.M., Sinha, N.R. (2022) Heinz-resistant tomato cultivars exhibit a lignin-based resistance to field dodder (Cuscuta campestris) parasitism. Plant Physiol. 2022 May 3;189(1):129-151. [https://doi.org/10.1093/plphys/kiac024](https://doi.org/10.1093/plphys/kiac024) PMID: 35099559; PMCID: PMC9070836.
+
+**Jhu, M.-Y.**, Ichihashi, Y., Farhi, M., Wong, C., Sinha, N.R. (2021) LATERAL ORGAN BOUNDARIES DOMAIN 25 functions as a key regulator of haustorium development in dodders. Plant Physiol. 2021 Aug 3;186(4):2093-2110. [https://doi.org/10.1093/plphys/kiab231](https://doi.org/10.1093/plphys/kiab231) PMID: 34618110; PMCID: PMC8331169.
 
 Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018). MicroR408 regulates defense response in sweet potato upon wounding. Journal of Experimental Botany, ery381-ery381. doi: [https://doi.org/10.1093/jxb/ery381](https://doi.org/10.1093/jxb/ery381)
 
@@ -54,9 +60,13 @@ Kuo, Y.W., Lin, J.S., Li, Y.C., **Jhu, M.Y.**, King, Y.C., and Jeng, S.T. (2018)
 
 ### Research experiences
 
+* Postdoctoral Research Associate, Oldroyd Group, Crop Science Centre, Department of Plant Sciences, University of Cambridge
+
+> *Sep 2021 - present*
+
 * Graduate student researcher, Sinha Lab, Department of Plant Biology, UC Davis  
 
-> *Sep 2015 - present*
+> *Sep 2015 - Sep 2021*
 
 > Research Topic 1: CcLBD25 functions as a key regulator of haustorium development in Cuscuta campestris
 
