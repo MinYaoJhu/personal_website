@@ -1,5 +1,10 @@
-# Min-Yao's personal website and CV
-Welcome! This is Min-Yao's personal website!
+# Min-Yao Jhu: personal website (archived)
+
+This repository held an earlier version of my CV (last updated 2022) and is no longer maintained.
+
+👉 **Visit my current website: [www.minyaojhu.com](https://www.minyaojhu.com)**
+
+You can also find me on [GitHub](https://github.com/MinYaoJhu), [Google Scholar](https://scholar.google.com/citations?user=8_dl65z_fZAC&hl=en) and [ORCID](https://orcid.org/0000-0002-8654-0977).
 
 ## Min-Yao's Curriculum Vitae   
 
